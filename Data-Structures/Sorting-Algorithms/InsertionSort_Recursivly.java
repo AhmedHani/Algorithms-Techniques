@@ -14,7 +14,9 @@ import java.util.*;
  */
 
 /*
- this insertion sort using Recursion approach;
+ this insertion sort using Recursion approach .. it has the same performance of the iterative version --
+ in the recursive version we do the same job but in the reverse order, which means that we take the Low (0 index) -> High (Length - 1)
+ and take (Length - 1) to become < Low.
 */
 public class InsertionSort {
     public static int[] Arr;

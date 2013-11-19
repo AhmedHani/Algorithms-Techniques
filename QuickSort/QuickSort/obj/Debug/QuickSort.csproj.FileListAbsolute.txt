@@ -1,0 +1,6 @@
+C:\Users\ahmed_000\Desktop\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\ahmed_000\Desktop\QuickSort\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\ahmed_000\Desktop\QuickSort\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\ahmed_000\Desktop\QuickSort\QuickSort\obj\Debug\QuickSort.csprojResolveAssemblyReference.cache
+C:\Users\ahmed_000\Desktop\QuickSort\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\ahmed_000\Desktop\QuickSort\QuickSort\obj\Debug\QuickSort.pdb
